@@ -6,16 +6,17 @@ function myAnimal() {
 }
 myAnimal()
 
-
-
-
-
-
 function yourAnimal() {
-var animals = "cat",
-return animals
+var animalss = "cat";
+return animalss
 }
 yourAnimal()
+
+
+
+
+
+
 
 function add2(n) {
    const two = 2
