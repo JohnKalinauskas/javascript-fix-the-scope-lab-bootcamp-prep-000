@@ -4,12 +4,18 @@ function myAnimal() {
   var animal = 'dog'
   return animal
 }
+myAnimal()
+
+
+
+
+
 
 function yourAnimal() {
-var animal = "cat",
-return "cat"
-
+var animals = "cat",
+return animals
 }
+yourAnimal()
 
 function add2(n) {
    const two = 2
