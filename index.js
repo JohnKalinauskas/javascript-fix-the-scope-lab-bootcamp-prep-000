@@ -28,7 +28,7 @@ function funkyFunction () {
     return ffunction
   
 }
-funkyCunction()
+funkyFunction()
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
